@@ -11,4 +11,11 @@ https://github.com/marsjoy/WeekOneProject
 ### Labs
 https://github.com/marsjoy/WeekTwoLab
 ### Project
+https://github.com/marsjoy/WeekTwoProject
+
+## Week Three
+### Labs
+https://github.com/marsjoy/WeekThreeLab
+### Project
+
 
